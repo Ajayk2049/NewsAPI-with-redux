@@ -30,6 +30,11 @@ Build Tool: Vite
 
 ---
 
+## ScreenShots 📷
+
+[https://github.com/Ajayk2049/NewsAPI-with-redux/blob/main/screenshots/Screenshot%202025-03-27%20184120.png?raw=true]
+[https://github.com/Ajayk2049/NewsAPI-with-redux/blob/main/screenshots/Screenshot%202025-03-27%20184140.png?raw=true]
+
 ## **🚀 Installation & Setup**  
 
 1. **Clone the repository:**  
