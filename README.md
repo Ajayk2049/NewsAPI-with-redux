@@ -1,12 +1,46 @@
-# React + Vite
+# 📰 Tech News Fetcher - Redux Toolkit & Thunk 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-4.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Currently, two official plugins are available:
+Tech News Fetcher is a **React + Redux Toolkit** application that fetches the latest tech news using **Redux AsyncThunk** and manages state efficiently with **Redux Slices**. Users can fetch news dynamically with a button click, showcasing the power of Redux for state management and API handling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎯 **Features**
+✅ Fetches live **tech news** from an external API 📡  
+✅ **Redux Toolkit** for state management ⚙️  
+✅ **Redux AsyncThunk** for handling API calls 📩  
+✅ **Redux Slices** for structured state management ✂️  
+✅ Dynamic UI updates on button click 🎭  
+✅ Clean and modular **React component structure** 🏗️  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## **🚀 Installation & Setup**  
+
+1. **Clone the repository:**  
+   ```sh 
+        https://github.com/Ajayk2049/NewsAPI-with-redux.git
+2.   **Navigate to the project directory:**  
+       ```sh  
+           cd Chota-Jobs
+3.   **Install dependencies:** 
+     ```sh
+         npm install
+4.   **Start the development server:**
+       ```sh   
+         npm run dev
+
+🔥 Tech Stack
+
+Frontend: React, Redux Toolkit, Tailwind CSS
+
+State Management: Redux, AsyncThunk, Redux Slices
+
+API Handling: Fetch API / Axios
+
+Build Tool: Vite
+       
