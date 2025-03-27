@@ -37,7 +37,7 @@ Build Tool: Vite
         https://github.com/Ajayk2049/NewsAPI-with-redux.git
 2.   **Navigate to the project directory:**  
        ```sh  
-           cd Chota-Jobs
+           cd NewsAPI-Redux
 3.   **Install dependencies:** 
      ```sh
          npm install
