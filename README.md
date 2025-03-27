@@ -8,6 +8,17 @@
 Tech News Fetcher is a **React + Redux Toolkit** application that fetches the latest tech news using **Redux AsyncThunk** and manages state efficiently with **Redux Slices**. Users can fetch news dynamically with a button click, showcasing the power of Redux for state management and API handling.
 
 ---
+🔥 Tech Stack
+
+Frontend: React, Redux Toolkit, Tailwind CSS
+
+State Management: Redux, AsyncThunk, Redux Slices
+
+API Handling: Fetch API / Axios
+
+Build Tool: Vite
+
+---
 
 ## 🎯 **Features**
 ✅ Fetches live **tech news** from an external API 📡  
@@ -34,13 +45,5 @@ Tech News Fetcher is a **React + Redux Toolkit** application that fetches the la
        ```sh   
          npm run dev
 
-🔥 Tech Stack
 
-Frontend: React, Redux Toolkit, Tailwind CSS
-
-State Management: Redux, AsyncThunk, Redux Slices
-
-API Handling: Fetch API / Axios
-
-Build Tool: Vite
        
